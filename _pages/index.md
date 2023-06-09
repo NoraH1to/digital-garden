@@ -1,8 +1,4 @@
----
-layout: page
-title: Home
-id: home
-permalink: /
+
 ---
 
 <strong>🆕 最近创建：</strong>
